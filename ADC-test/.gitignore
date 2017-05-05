@@ -1,0 +1,7 @@
+.cproject
+.dep/
+.mxproject
+.project
+build/
+*.swp
+*~
